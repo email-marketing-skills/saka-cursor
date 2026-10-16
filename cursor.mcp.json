@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "saka": {
+      "url": "https://saka.run/api/mcp"
+    },
+    "saka-library": {
+      "url": "https://saka.run/api/library/mcp"
+    }
+  }
+}
